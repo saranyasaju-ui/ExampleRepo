@@ -32,3 +32,4 @@ D:\dotnet\ExampleRepo\ExampleRepo\obj\Debug\net8.0\refint\ExampleRepo.dll
 D:\dotnet\ExampleRepo\ExampleRepo\obj\Debug\net8.0\ExampleRepo.pdb
 D:\dotnet\ExampleRepo\ExampleRepo\obj\Debug\net8.0\ExampleRepo.genruntimeconfig.cache
 D:\dotnet\ExampleRepo\ExampleRepo\obj\Debug\net8.0\ref\ExampleRepo.dll
+D:\dotnet\ExampleRepo\ExampleRepo\obj\Debug\net8.0\ExampleRepo.sourcelink.json
